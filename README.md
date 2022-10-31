@@ -7,3 +7,4 @@ Gerekli Devre Elemanları
 • 5 adet LED
 • 5 adet 220Ω (kırmızı, kırmızı, kahverengi, altın rengi) direnç
 • Bağlantı kabloları
+![alt text](Devre.png)
